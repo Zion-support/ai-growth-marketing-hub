@@ -1,10 +1,21 @@
-# AI Growth Marketing Hub
+# AI Growth Marketing Hub — Network Links
 
-Scale marketing with AI.
+Scale campaigns with AI content, testing and attribution.
+
+## Live
+- App: https://ziontechgroup.com/ai-growth-marketing-hub/
+- Repo: https://github.com/Zion-support/ai-growth-marketing-hub
+- Pages: https://zion-support.github.io/ai-growth-marketing-hub/
+
+## Related apps
+- [ad-budget-optimizer](https://ziontechgroup.com/ad-budget-optimizer/) · [GitHub](https://github.com/Zion-support/ad-budget-optimizer)
+- [newsletter-growth-copilot](https://ziontechgroup.com/newsletter-growth-copilot/) · [GitHub](https://github.com/Zion-support/newsletter-growth-copilot)
+- [landing-page-ab-tester](https://ziontechgroup.com/landing-page-ab-tester/) · [GitHub](https://github.com/Zion-support/landing-page-ab-tester)
 
 ## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-social-manager](https://github.com/Zion-support/ai-social-manager) · [ai-advertising-optimizer](https://github.com/Zion-support/ai-advertising-optimizer) · [zion-ai-email-marketing-pro](https://github.com/Zion-support/zion-ai-email-marketing-pro) · [zion-seo-optimizer](https://github.com/Zion-support/zion-seo-optimizer) · [zion-ai-lead-scoring](https://github.com/Zion-support/zion-ai-lead-scoring)
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://ziontechgroup.com/apps/
+- Master catalog: https://github.com/Zion-support/zion-app-network
+- Apps hub: https://github.com/Zion-support/zion-apps-hub
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+*Zion Tech Group · part of the 703+ app AI network.*
