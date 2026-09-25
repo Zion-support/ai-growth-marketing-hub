@@ -1,6 +1,6 @@
 # AI Growth Marketing Hub — Network Links
 
-Campaigns, funnels and attribution in one growth hub.
+Plan campaigns, track funnel metrics and attribute revenue across channels.
 
 ## Live
 - App: https://ziontechgroup.com/ai-growth-marketing-hub/
@@ -9,8 +9,8 @@ Campaigns, funnels and attribution in one growth hub.
 
 ## Related apps
 - [ad-budget-optimizer](https://ziontechgroup.com/ad-budget-optimizer/) · [GitHub](https://github.com/Zion-support/ad-budget-optimizer)
-- [newsletter-growth-copilot](https://ziontechgroup.com/newsletter-growth-copilot/) · [GitHub](https://github.com/Zion-support/newsletter-growth-copilot)
 - [content-roi-dashboard](https://ziontechgroup.com/content-roi-dashboard/) · [GitHub](https://github.com/Zion-support/content-roi-dashboard)
+- [newsletter-growth-copilot](https://ziontechgroup.com/newsletter-growth-copilot/) · [GitHub](https://github.com/Zion-support/newsletter-growth-copilot)
 
 ## Network
 - Homepage: https://ziontechgroup.com
